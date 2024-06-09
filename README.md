@@ -1,7 +1,7 @@
 
 ## Education						       		
-- M.S., Math | The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Math| The University of Texas at Dallas (_May 2017_)
+- M.Sc., Math |Indian Institute of Technology, Madras(IITM)- (_2022-2024_)	 			        		
+- B.Sc., Math| Government Arts College , Coimbatore (_2018-2021_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
