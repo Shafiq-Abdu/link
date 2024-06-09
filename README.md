@@ -62,3 +62,60 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
 - [Data Science Blog](https://medium.com/@shawhin)
+
+
+# Abdul Rahman's Curriculum Vitae
+
+## Education
+- **Master's in Mathematics** (2022-2024)  
+  Indian Institute of Technology, Madras
+
+- **Bachelor's in Mathematics** (2018-2021)  
+  Government Arts and Science College, Coimbatore
+
+- **Higher Secondary** (2016-2018)  
+  Cordite Factory Higher Secondary School
+
+- **Secondary School** (2016)  
+  Timbre Tops Matriculation School
+
+## Research Interests
+- Applied Probability and Statistics
+- Stochastic Processes
+- Mathematical Finance
+
+## Master's Thesis
+- **Technical Analysis in Mathematical Finance**  
+  - *Advisor:* Dr. Neelesh Upadhye, IIT Madras
+  - *Thesis Topics:* 
+    - Optimizing Supertrend Parameters for Enhanced Profit
+    - Optimizing Supertrend Parameters for Enhanced Sharpe Ratio
+
+## Skills
+- Programming: Python, C/C++, R, Matlab
+- Presentation: LaTeX, Canva, Adobe Lightroom, Snapseed
+
+## Research Experiences
+- **Publications**
+  - Preprint: Unlocking Profit Potential: Maximizing Returns with Bayesian Optimization of Supertrend Indicator Parameters
+
+- **Internships**
+  - Research Internship: Limit Order Book Modeling with a queueing system
+
+## Honors & Awards
+- Qualified in the national level Graduate Aptitude Test in Engineering (GATE)
+- All India Rank 196 in National level Joint Admission Test (IIT-JAM)
+- Topper in Department of Mathematics, Government Arts College, Coimbatore
+
+## Teaching Experiences
+- Mentor and Teaching Assistant at IIT Madras
+- Tutor at Saranya Academy of Mathematics
+
+## Extracurricular Activities
+- Initiator and Organizer of the Weekly Student Seminar Series in Mathematics Department, IIT Madras
+- Student Chief Coordinator for Mathematics Teaching and Training Search Programme, IIT Madras
+
+## Contact
+- Email: abdulrahman.iitm.math@gmail.com
+- LinkedIn: [Abdul Rahman](linkedin_profile_link)
+
