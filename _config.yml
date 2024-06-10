@@ -1,7 +1,14 @@
-title: About me
-logo: hi.png
-description: Computational Mathematics & Data Science Lab, Department of Mathematics,Indian Institute of technology,IIT Madras,Chennai,Tamil Nadu,India- 600 036
+# Site settings
+title: "About Me"
+logo: "hi.png"
+description: "Computational Mathematics & Data Science Lab, Department of Mathematics, Indian Institute of Technology, IIT Madras, Chennai, Tamil Nadu, India - 600 036"
 
+# Show download links for the site's files
 # show_downloads: true
+
+# Theme settings
 theme: jekyll-theme-minimal
 
+# URL settings
+baseurl: "https://yourusername.github.io" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
