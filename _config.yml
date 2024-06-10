@@ -5,6 +5,3 @@ description: Computational Mathematics & Data Science Lab, Department of Mathema
 # show_downloads: true
 theme: jekyll-theme-minimal
 
-# URL settings
-baseurl: "https://yourusername.github.io" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # the base hostname & protocol for your site
