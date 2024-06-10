@@ -1,6 +1,6 @@
 title: About me
 logo: hi.png
 description: Computational Mathematics & Data Science Lab, Department of Mathematics, IIT Madras, India
-
+github: false
 # show_downloads: true
 theme: jekyll-theme-minimal
