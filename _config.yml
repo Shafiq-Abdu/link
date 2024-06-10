@@ -1,24 +1,7 @@
 title: Abdul Rahman
-logo: Untitled design (1).png
+logo: hi.png
 description: IIT Madras, also knoenw asasadddidisd in dsidsndnsnnnnkndkskn idnsndnsdnijnnsndsndksinnsssdnsdnsndsincsnnns sdsmksssmdinfdds dsiddkssd  inoportanat part part off gthe country
 
 # show_downloads: true
 theme: jekyll-theme-minimal
 
-avatar           : "profile.png"
-name             : "Your Sidebar Name"
-pronouns         : # example: "she/her"  
-bio              : "Short biography for the left-hand sidebar"
-location         : "Earth"
-employer         : "Red Brick University"
-uri              : # URL
-email            : "none@example.org" 
-
-# Academic websites
-arxiv            : # URL - Update with the correct link to your profile
-googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-impactstory      : # URL
-orcid            : "http://orcid.org/yourorcidurl"
-semantic         : # URL
-pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-researchgate     : # URL
