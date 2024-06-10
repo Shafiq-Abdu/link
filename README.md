@@ -16,7 +16,7 @@ Throughout my academic career, I have actively engaged in various projects and s
 
 I'm always eager to learn and explore new mathematical theories and their applications, and I look forward to contributing to the field through research and professional endeavors.
 
-## Contact
-- Email: abdulrahman.iitm.math@gmail.com
-- LinkedIn: [Abdul Rahman](linkedin_profile_link)
+## Get in touch
+- Email: [abdulrahman.officiallink@gmail.com](abdulrahman.officiallink@gmail.com)
+- LinkedIn: [Abdul Rahman]()
 
