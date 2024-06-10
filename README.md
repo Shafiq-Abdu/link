@@ -1,6 +1,6 @@
 
 ## Shafiq Abdul Rahman
-**Research Intern under [Dr.Neelesh Upadhye](https://math.iitm.ac.in/neelesh)  @ IIT Madras  <br>
+**Research Intern under [Dr.Neelesh Upadhye](https://math.iitm.ac.in/neelesh)  @ IIT Madras  
 (_June 2022 - Present_)**
 
 ## Research Interests
