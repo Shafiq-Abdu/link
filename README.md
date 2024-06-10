@@ -1,4 +1,4 @@
-
+<p style="color:blue;">This text will be blue.</p>
 ## Education						       		
 - M.Sc., Math |Indian Institute of Technology, Madras(IITM)- (_2022-2024_)	 			        		
 - B.Sc., Math| Government Arts College , Coimbatore (_2018-2021_)
