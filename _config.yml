@@ -1,56 +1,7 @@
-# title: About me
-# logo: hi.png
-# description: Computational Mathematics & Data Science Lab, Department of Mathematics, IIT Madras, India
-# github: false
-# # show_downloads: true
-# theme: jekyll-theme-minimal
-title: My Jekyll Site
-description: This is my Jekyll site.
-
-
-# Theme settings
+title: About me
+logo: hi.png
+description: Computational Mathematics & Data Science Lab, Department of Mathematics, IIT Madras, India
+github: false
+# show_downloads: true
 theme: jekyll-theme-minimal
 
-# GitHub Pages settings
-remote_theme: username/repo
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Collections
-collections:
-  my_collection:
-    output: true
-
-# Permalinks
-permalink: /:title/
-
-# Pagination
-paginate: 5
-paginate_path: "/page/:num/"
-
-# Markdown processor
-markdown: kramdown
-
-# Exclude from processing
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/
-
-# Include in processing
-include:
-  - _pages
-
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Custom Variables
-custom_variable: "Custom Value"
