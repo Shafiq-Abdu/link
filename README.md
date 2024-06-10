@@ -19,5 +19,5 @@ I'm always eager to learn and explore new mathematical theories and their applic
 ** _More detais are found in my [<u>official website</u>](https://sites.google.com/view/shafiq-abdulrahman-iitm/home)_**
 ## Get in touch
 - Email: [abdulrahman.officiallink@gmail.com](abdulrahman.officiallink@gmail.com)
-- LinkedIn: [Abdul Rahman]()
+- LinkedIn: [Abdul Rahman](https://www.linkedin.com/in/abdul-rahman-s/)
 
