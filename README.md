@@ -1,12 +1,10 @@
 
 ## Shafiq Abdul Rahman
-**Research Intern under [Dr.Neelesh Upadhye](https://math.iitm.ac.in/neelesh)  @ IIT Madras
+**Research Intern under [Dr.Neelesh Upadhye](https://math.iitm.ac.in/neelesh)  @ IIT Madras  <br>
 (_June 2022 - Present_)**
-___
+
 ## Research Interests
-My research interests lie in the fields of [stochastic analysis] and its applications to mathematical finance. In particular, now I'm working on [Limit Order Book Modelling](https://www.5minutefinance.org/concepts/the-limit-order-book) with a queueing system related to the Indian Stock Market with statistical techniques and tools and learning about the latest research advancements in the field of stochastic modeling .
-___
-***
+My research interests lie in the fields of [stochastic analysis](https://en.wikipedia.org/wiki/Stochastic_process) and its applications to [mathematical finance](https://en.wikipedia.org/wiki/Mathematical_finance). In particular, now I'm working on [Limit Order Book Modelling](https://www.5minutefinance.org/concepts/the-limit-order-book) with a queueing system related to the Indian Stock Market with statistical techniques and tools and learning about the latest research advancements in the field of stochastic modeling 
 ## Overview
   I'm Abdul Rahman, a recent graduate with a Master’s degree in Mathematics from the prestigious Indian Institute of Technology Madras (IIT Madras), where I studied from 2022 to 2024. My academic journey has been driven by a profound interest in stochastic analysis and financial mathematics, areas that fascinate me due to their complex and impactful nature.
 
