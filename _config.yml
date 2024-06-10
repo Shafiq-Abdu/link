@@ -6,8 +6,7 @@
 # theme: jekyll-theme-minimal
 title: My Jekyll Site
 description: This is my Jekyll site.
-url: "https://example.com"
-baseurl: "/"
+
 
 # Theme settings
 theme: jekyll-theme-minimal
