@@ -16,7 +16,7 @@ Throughout my academic career, I have actively engaged in various projects and s
 
 I'm always eager to learn and explore new mathematical theories and their applications, and I look forward to contributing to the field through research and professional endeavors.
 
- _**More detais are found in my [<u>official website</u>](https://sites.google.com/view/shafiq-abdulrahman-iitm/home)**_
+ _**More details are found in my [<u>official website</u>](https://sites.google.com/view/shafiq-abdulrahman-iitm/home)**_
 ## Get in touch
 - Email: [abdulrahman.officiallink@gmail.com](abdulrahman.iitm.math@gmail.com)
 - LinkedIn: [Abdul Rahman](https://www.linkedin.com/in/abdul-rahman-s/)
