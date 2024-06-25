@@ -1,6 +1,10 @@
 
 ## Shafiq Abdul Rahman                                                           
 [Change View](https://shafiq-abdu.github.io/website/)
+<div style="border: 1px solid black; padding: 10px; margin: 10px;">
+  This is a box created using HTML within a Markdown file.
+</div>
+
 #### <u> Current Position </u>
 **Research Intern under [Dr.Neelesh Upadhye](https://math.iitm.ac.in/neelesh)  @ IIT Madras  
 (_June 2024 - Present_)**
