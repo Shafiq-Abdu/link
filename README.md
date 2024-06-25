@@ -10,7 +10,7 @@
 **Research Intern under [Dr.Neelesh Upadhye](https://math.iitm.ac.in/neelesh)  @ IIT Madras  
 (_June 2024 - Present_)**
 
-## <span style="color: blue;">Current position</span>
+## <span style="color: #00FFFF;">Current position</span>
 
 ## Research Interests
 My research interests lie in the fields of [stochastic analysis](https://en.wikipedia.org/wiki/Stochastic_process) and its applications to [mathematical finance](https://en.wikipedia.org/wiki/Mathematical_finance). In particular, now I'm working on [<u>Limit Order Book Modelling</u>](https://www.5minutefinance.org/concepts/the-limit-order-book) with a queueing system related to the Indian Stock Market using statistical techniques and tools and learning about the latest research advancements in the field of stochastic modeling .
