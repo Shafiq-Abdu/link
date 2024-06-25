@@ -3,7 +3,7 @@
 </div>
 
        
-## <span style="border-bottom: 3px solid black; color: #1E90FF;">Shafiq Abdul Rahman here</span>
+## <span style="color: #1E90FF;">Shafiq Abdul Rahman</span>
 
 #### <u> Current Position </u>
 **Research Intern under [Dr.Neelesh Upadhye](https://math.iitm.ac.in/neelesh)  @ IIT Madras  
