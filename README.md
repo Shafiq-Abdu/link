@@ -1,11 +1,11 @@
 
-## Shafiq Abdul Rahman                                                           
+                                                   
 
 <div style="border: 1px solid black; padding: 10px; margin: 10px; display: inline-block;">
   <a href="https://shafiq-abdu.github.io/website/">Change View</a>
 </div>
 
-
+## Shafiq Abdul Rahman        
 
 #### <u> Current Position </u>
 **Research Intern under [Dr.Neelesh Upadhye](https://math.iitm.ac.in/neelesh)  @ IIT Madras  
