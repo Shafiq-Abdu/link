@@ -1,6 +1,6 @@
 
-## Shafiq Abdul Rahman
-
+## Shafiq Abdul Rahman                                                           
+[Change View](https://shafiq-abdu.github.io/website/)
 #### <u> Current Position </u>
 **Research Intern under [Dr.Neelesh Upadhye](https://math.iitm.ac.in/neelesh)  @ IIT Madras  
 (_June 2024 - Present_)**
