@@ -1,9 +1,8 @@
-
-                                                   
-
-<div style="border: 1px solid black; padding: 10px; margin: 10px; display: inline-block;">
+<div style="border: 1px solid black; padding: 10px; margin: 10px; display: inline-block; float: left;">
   <a href="https://shafiq-abdu.github.io/website/">Change View</a>
 </div>
+
+                                                  
 
 ## Shafiq Abdul Rahman        
 
